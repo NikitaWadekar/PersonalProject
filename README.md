@@ -1,8 +1,8 @@
 ### Greetings of the day! 👋
 
-The projects in the repository showcases the machine learning and deep learning based projects.
+The projects in the repository showcases machine learning and deep learning based projects.
 
-- Currently pursuing Master of Information Technology(Professional)
+- Master of Information Technology(Professional) graduate
 - Specialization: Data Analytics
-- Looking to collaborate on machine learning and deep learning projects.
+- Seeking opportunity to contribute in software development and use programming skills.
 - Connect: linkedin.com/in/nikita-wadekar
